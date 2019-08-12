@@ -1,4 +1,4 @@
-# ExchangeRatesApp
+# ExchangeRatesApp v1.0
 
 ExchangeRateApp is an application that allows you to check current buying and selling exchange rates. 
 The currency for which exchange rates of other currencies are given is Polish zloty. The data is downloaded 
